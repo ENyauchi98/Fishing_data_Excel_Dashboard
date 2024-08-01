@@ -11,6 +11,11 @@
 
 ### Project overview
 This project aims to consolidate and display the trends in the effect of fishing activities on stock levels in various waterbodies around the world over the years through visualizaton. By summarizing and visualizing the metrics of stcock levels, we seek to make it easy to read and interpret the trends and make data driven recommendations.
+
+![Fish_stock_dashboard](https://github.com/user-attachments/assets/647f9187-94e3-47d3-8c8c-ef8ba6c6618e)
+
+![Uploading Fish_stock_dashboard.png…]()
+
 ### Data Source
 The primary data for this project is the "Fishstock-within-sustainable-levels" excel file within the "Fish and fishing" dataset. The data includes information about fishstock within biologically sustainable levels and those stocks which have been overexploited between the years 1974 to 2017.
 ### Tools
